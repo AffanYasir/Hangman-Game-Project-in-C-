@@ -83,22 +83,20 @@ The game includes the following animal names:
 2. **Compile the Program**:  
    ```bash
    g++ hangman.cpp -o hangman
-Run the Executable:
-bash
-Copy code
-./hangman
-Play the Game:
-Follow the on-screen instructions to start playing the game.
-Acknowledgments
-This game was developed by Affan Yasir and Mahnoor as part of their programming practice.
-Future Improvements
-Add more words and categories.
-Implement difficulty levels.
-Create a graphical user interface (GUI) version of the game.
-Save high scores and player progress.
-🎮 Enjoy playing Hangman and saving the day!
+## **Run the Executable:**
 
-vbnet
-Copy code
+./hangman
+
+**Play the Game:**
+Follow the on-screen instructions to start playing the game.
+## **Acknowledgments**
+This game was developed by Affan Yasir and Mahnoor as part of their programming practice.
+## **Future Improvements**
+-Add more words and categories.
+-Implement difficulty levels.
+-Create a graphical user interface (GUI) version of the game.
+-Save high scores and player progress.
+
+**🎮 Enjoy playing Hangman and saving the day!**
 
 Would you like me to save this updated version as a file for you?
