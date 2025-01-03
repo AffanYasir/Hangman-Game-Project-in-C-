@@ -1,4 +1,4 @@
-# **README for Hangman Game in C++**
+# **Hangman Game in C++**
 
 ---
 
@@ -92,10 +92,10 @@ Follow the on-screen instructions to start playing the game.
 ## **Acknowledgments**
 This game was developed by Affan Yasir and Mahnoor as part of their programming practice.
 ## **Future Improvements**
--Add more words and categories.
--Implement difficulty levels.
--Create a graphical user interface (GUI) version of the game.
--Save high scores and player progress.
+ - Add more words and categories.
+ - Implement difficulty levels.
+ - Create a graphical user interface (GUI) version of the game.
+ - Save high scores and player progress.
 
 **🎮 Enjoy playing Hangman and saving the day!**
 
