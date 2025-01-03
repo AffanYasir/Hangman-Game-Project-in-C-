@@ -99,4 +99,3 @@ This game was developed by Affan Yasir and Mahnoor as part of their programming 
 
 **🎮 Enjoy playing Hangman and saving the day!**
 
-Would you like me to save this updated version as a file for you?
